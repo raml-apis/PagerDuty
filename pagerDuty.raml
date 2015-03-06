@@ -474,7 +474,7 @@ traits:
         body: 
           application/json: 
             schema: schedulesPostResponse
-            example: !include examples/schedulesPostResponse.json/
+            example: !include examples/schedulesPostResponse.json
   /{schedule_id}: 
     type: pagerDutyResource
     get: 
@@ -554,7 +554,7 @@ traits:
             body: 
               application/json: 
                 schema: scheduleEntries
-                example: !include examples/scheduleEntries.json/
+                example: !include examples/scheduleEntries.json
     /overrides: 
       type: overrideResource
       description: |
