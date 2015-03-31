@@ -21,7 +21,7 @@ serviceNamePrefix = prompt("Please, enter your site address first segment. For e
 ```javascript
 API.createClient(
   'client',
-  '#REF_TAG_DEFENITION_PagerDuty',
+  '#REF_TAG_DEFENITION_PagerDuty:',
   {
     baseUriParameters: {
       serviceName: serviceNamePrefix
@@ -32,7 +32,7 @@ API.createClient(
 Here we initialize a PagerDuty Integration API client. We will use it for triggering incidents.
 
 ```javascript
-API.createClient('integrationClient', '#REF_TAG_DEFENITION_PagerDuty Integration');
+API.createClient('integrationClient', '#REF_TAG_DEFENITION_PagerDuty Integration:');
 ```
 
 In order to run this notebook we will create a service named as follows:
