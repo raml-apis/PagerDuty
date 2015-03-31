@@ -6,4 +6,4 @@ The API notebooks are all executable! Hit "enter" in any code cell to execute it
 
 - Remember that it takes some time for the PagerDuty service to process incidents triggered. Don't forget to wait a little after triggering incidents in the "Incidents, log entries, alerts and reports" notebook. See the notebook itself for details.
 
-- See also main PagerDuty [documentation](#REF_TAG_ABOUT_NOTEBOOKS)
+- See also main PagerDuty [documentation](#REF_TAG_ABOUT_NOTEBOOKS_PagerDuty:)
