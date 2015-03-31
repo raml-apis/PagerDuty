@@ -5,3 +5,5 @@ The API notebooks are all executable! Hit "enter" in any code cell to execute it
 - In order to run these notebooks you will need a PagerDuty account. In the beginning of each notebook you'll be asked to enter the first segment of your PagerDuty site. When you'll try to call some API method for the very first time, the notebook will ask for your username and password.
 
 - Remember that it takes some time for the PagerDuty service to process incidents triggered. Don't forget to wait a little after triggering incidents in the "Incidents, log entries, alerts and reports" notebook. See the notebook itself for details.
+
+- See also main PagerDuty [documentation](#REF_TAG_ABOUT_NOTEBOOKS)

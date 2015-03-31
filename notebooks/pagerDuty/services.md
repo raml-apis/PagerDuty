@@ -21,7 +21,7 @@ serviceNamePrefix = prompt("Please, enter your site address first segment. For e
 ```javascript
 API.createClient(
   'client',
-  '/apiplatform/repository/public/organizations/30/apis/7593/versions/7719/definition',
+  '#REF_TAG_DEFENITION',
   {
     baseUriParameters: {
       serviceName: serviceNamePrefix
