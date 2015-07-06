@@ -1,1 +1,1 @@
-PagerDuty provides SaaS IT on-call schedule management, alerting and incident tracking.
+PagerDuty provides SaaS IT on-call schedule management, alerting and incident tracking. This portal describes PagerDuty Integration API.
